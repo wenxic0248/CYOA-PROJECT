@@ -1,5 +1,4 @@
-You wake up from your bed in your apartment on the seventh floor, then you hear a roar
-Choose what you want to do
+You see godzilla outside making you very scared 
 
 
 [Run away](runaway.md)
