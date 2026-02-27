@@ -1,3 +1,3 @@
 # CYOA-PROJECT
 
-[choose your journey here](../whichending)
+[choose your journey here](whichending/choosending.md)
